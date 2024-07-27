@@ -14,7 +14,7 @@ MedRecSys is a simple and intuitive medicine recommendation system. This project
 
 Project Structure
 
-MedRecSys/
+PharmaMatcher/<br>
 ├── medicine.csv             # Dataset file<br>
 ├── app.py                   # Main application file<br>
 ├── medicine_dict.pkl        # Pickled dictionary of processed medicine data<br>
